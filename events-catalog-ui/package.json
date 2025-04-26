@@ -1,0 +1,14 @@
+{
+  "name": "events-catalog-ui",
+  "version": "1.0.0",
+  "description": "A simple React project to display and filter events by name, date, and location.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
